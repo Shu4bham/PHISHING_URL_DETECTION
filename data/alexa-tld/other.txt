@@ -1,0 +1,7 @@
+-.reddog.microsoft.com
+-keyid-b430be6dc063c046ec10b75c43251d53b8f7b006.microsoftaik.azure.net
+-egg.com
+-partner-epic-cms-service-ci.proxy.epicgames-gamedev.ol.epicgames.net
+-godotechonestorage.email.cs.money
+-branch.west-gcloud.codm.activision.com
+-alpha-0-08.leasingmarkt.de
